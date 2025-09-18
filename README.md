@@ -1,9 +1,9 @@
 # PapalEncyclicals
 The Papal Encyclicals corpus collects letters from the Popes to Roman Catholic bishops (encyclicals).
 Encyclicals:
-* *Lumen fidei*
-* *Laudato si'*
-* *Fratres omnes*
+* *Lumen fidei*: Pope Francis, 2013
+* *Laudato si'*: Pope Francis, 2015
+* *Fratres omnes*: Pope Francis, 2020
 
 ## Copyright
 
