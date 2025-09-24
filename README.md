@@ -11,6 +11,10 @@ Encyclicals:
 
 See the website of the <a rel="vatican" href ="https://www.vatican.va/">Vatican</a> for further details.
 
+## How to cite
+
+Alagni, A., Iurescia, F., Litta, E. (forthcoming) Contemporary Voices in Ancient Tongue: Integrating Papal Encyclicals into the LiLa KB. In Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025). Available at https://clic2025.unica.it/wp-content/uploads/2025/09/1_main_long.pdf
+
 **Funding**
 
 The *LiLa: Linking Latin* project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
