@@ -13,7 +13,7 @@ See the website of the <a rel="vatican" href ="https://www.vatican.va/">Vatican<
 
 ## How to cite
 
-Alagni, A., Iurescia, F., Litta, E. (forthcoming) Contemporary Voices in Ancient Tongue: Integrating Papal Encyclicals into the LiLa KB. In Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025). Available at https://clic2025.unica.it/wp-content/uploads/2025/09/1_main_long.pdf
+Alagni, A., Iurescia, F., Litta, E. (2025). Contemporary Voices in Ancient Tongue: Integrating Papal Encyclicals into the LiLa KB. In In Bosco Cristina, Jezek Elisabetta, Polignano Marco, Sanguinetti Manuela (a cura di), Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025), pp. 4–11, Cagliari, Italy. CEUR Workshop Proceedings. Available at https://clic2025.unica.it/wp-content/uploads/2025/09/1_main_long.pdf
 
 **Funding**
 
